@@ -1,1 +1,1 @@
-# panakia-responsive
+bootstrap-responsive
